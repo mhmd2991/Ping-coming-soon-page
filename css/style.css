@@ -68,7 +68,7 @@ main .container {
 }
 
 .container .box .logo {
-    margin: 85px auto 30px;
+    margin: 85px auto 20px;
     width: 86px;
     height: 26px;
 }
@@ -87,13 +87,13 @@ main .container {
 
 .container .box p {
     font-size: 18px;
-    margin: 25px 0 40px;
+    margin: 15px 0 40px;
 }
 
 .box form {
     display: flex;
     gap: 15px;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 
 .box form input[type="email"] {
@@ -163,7 +163,7 @@ form.error .error-msg {
 .box .social-media {
     display: flex;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 200px;
 }
 
 .box .social-media li {
